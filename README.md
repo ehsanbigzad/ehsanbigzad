@@ -9,3 +9,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ehsanbigzad.ehsanbigzad) 
 
 I’m a self-studied, enthusiastic software developer specialized in server-side programming with over 6+ years of extensive professional experience, I am a problem solver by nature and process is my strong suit, focusing on optimization, scalability & user-friendly to provide maximum value for users.
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ehsanbigzad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanbigzad&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
