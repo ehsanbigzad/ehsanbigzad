@@ -12,6 +12,11 @@ I’m a self-studied, enthusiastic software developer specialized in server-side
 
 📈  **My GitHub Stats:**
 
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ehsanbigzad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" />
+</p>
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript   4 hrs 59 mins   ████████████████▒░░░░░░░░   65.54 % 
@@ -21,7 +26,3 @@ JSON         24 mins         █▒░░░░░░░░░░░░░░░
 Jade         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 <!--END_SECTION:waka-->
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ehsanbigzad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" />
-</p>
