@@ -19,10 +19,10 @@ I’m a self-studied, enthusiastic software developer specialized in server-side
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js           9 hrs 41 mins   █████████▓░░░░░░░░░░░░░░░   39.04 % 
-PHP              6 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.78 % 
-JavaScript       5 hrs           █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Blade Template   3 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-JSON             27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Vue.js           11 hrs 7 mins   ██████████▓░░░░░░░░░░░░░░   42.42 % 
+PHP              6 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+JavaScript       5 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Blade Template   3 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+JSON             29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 ```
 <!--END_SECTION:waka-->
