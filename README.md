@@ -19,10 +19,10 @@ I’m a self-studied, enthusiastic software developer specialized in server-side
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   11 hrs 15 mins  █████████████▓░░░░░░░░░░░   54.49 % 
-Other        2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-XML          2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Dart         2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-JSON         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+JavaScript    4 hrs 43 mins   █████████▓░░░░░░░░░░░░░░░   38.83 % 
+Other         2 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.70 % 
+XML           2 hrs 17 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Objective-C   37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+JSON          32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 ```
 <!--END_SECTION:waka-->
