@@ -19,10 +19,10 @@ I’m a self-studied, enthusiastic software developer specialized in server-side
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   28 hrs 5 mins   ████████████████████▓░░░░   82.98 % 
-HTML         4 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-JSON         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-PHP          33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Other        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+JavaScript   30 hrs 22 mins  ███████████████████▓░░░░░   78.22 % 
+HTML         7 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.42 % 
+PHP          33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+JSON         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Other        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 <!--END_SECTION:waka-->
