@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ehsanbigzad/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/EhsanBigzad7)
 
-I’m a self-studied, enthusiastic software developer specialized in server-side programming with over 6+ years of extensive professional experience, I am a problem solver by nature and process is my strong suit, focusing on optimization, scalability & user-friendly to provide maximum value for users.
+I’m a self-studied, enthusiastic software developer specialized in server-side programming with over 6+ years of extensive professional experience.
 
 <!--START_SECTION:waka-->
 
