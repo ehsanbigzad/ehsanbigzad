@@ -11,12 +11,12 @@ I’m a self-studied, enthusiastic software developer specialized in server-side
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript      25 hrs 8 mins   ███████████████████████▓░   94.73 %
-JSON            32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Markdown        25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-JavaScript      16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Objective-C     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Groovy          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TypeScript      27 hrs 1 min    ████████████████████████░   95.75 %
+Markdown        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+JSON            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Objective-C     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Bash            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+JavaScript      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
