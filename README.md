@@ -11,8 +11,8 @@ I’m a self-studied, enthusiastic software developer specialized in server-side
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   10 hrs 55 mins  ████████████████████▒░░░░   81.90 %
-Other        1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+TypeScript   6 hrs 16 mins   ██████████████████▓░░░░░░   74.54 %
+Other        1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
 ```
 
 <!--END_SECTION:waka-->
