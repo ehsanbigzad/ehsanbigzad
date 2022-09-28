@@ -11,11 +11,9 @@ A quality-focused Software Engineer with over 5 years of professional background
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   7 hrs 5 mins    ███████████▒░░░░░░░░░░░░░   44.97 %
-JSON         2 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
-JavaScript   1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-Markdown     1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Other        1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+TypeScript   7 hrs 4 mins    ███████████░░░░░░░░░░░░░░   44.37 %
+JSON         2 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+Other        1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
 ```
 
 <!--END_SECTION:waka-->
