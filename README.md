@@ -11,8 +11,8 @@ A quality-focused Software Engineer with over 5 years of professional background
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   19 hrs 9 mins   ██████████████████░░░░░░░   72.06 %
-Other        4 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+TypeScript   19 hrs 47 mins  ████████████████████▒░░░░   81.49 %
+Other        1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
 ```
 
 <!--END_SECTION:waka-->
