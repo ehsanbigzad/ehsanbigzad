@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ehsanbigzad/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/EhsanBigzad7)
 
-I'm a self-taught Software Engineer with over 6 years of professional experience
+I'm a Software Engineer with over 6 years of professional experience
 in developing and implementing software solutions ranging from mobile applications development to architecting enterprise level softwares.
 
 <!--START_SECTION:waka-->
