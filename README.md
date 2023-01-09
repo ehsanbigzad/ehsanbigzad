@@ -12,7 +12,7 @@ in developing and implementing software solutions ranging from mobile applicatio
 <!--START_SECTION:waka-->
 
 ```text
-Other        18 mins         ██████████████░░░░░░░░░░░   55.95 %
+Other   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
