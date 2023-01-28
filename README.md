@@ -12,8 +12,8 @@ in developing and implementing software solutions ranging from mobile applicatio
 <!--START_SECTION:waka-->
 
 ```text
-Go           5 hrs 19 mins   ██████████████████████░░░   87.56 %
-Other        36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+Go           5 hrs 19 mins   █████████████████████░░░░   84.58 %
+Other        39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
 ```
 
 <!--END_SECTION:waka-->
