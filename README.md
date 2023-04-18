@@ -12,9 +12,9 @@ in developing and implementing software solutions ranging from mobile applicatio
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   30 hrs 3 mins   █████████████████████▓░░░   86.60 %
-Dart         2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-Other        1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+TypeScript   25 hrs 20 mins  █████████████████████▒░░░   85.41 %
+Dart         2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Other        40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
