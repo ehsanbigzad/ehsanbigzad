@@ -12,11 +12,11 @@ in developing and implementing software solutions ranging from mobile applicatio
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      11 hrs 7 mins   ██████████████████████▒░░   88.96 %
-JSON            29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Assembly        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-GDScript        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-XML             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+TypeScript       10 hrs 6 mins   ████████████████████▓░░░░   82.15 %
+Ezhil            36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+JSON             31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+YAML             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+GDScript         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
