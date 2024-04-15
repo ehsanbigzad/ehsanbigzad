@@ -12,9 +12,7 @@ in developing and implementing software solutions ranging from mobile applicatio
 <!--START_SECTION:waka-->
 
 ```txt
-Other        8 mins          ████████████████████▒░░░░   81.64 %
-JSON         1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
